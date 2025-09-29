@@ -16,6 +16,8 @@ I work with a wide range of technologies and tools:
 - **Programming Languages:** C++, C#, Python, Javascript, Php, Java  
 - **Specializations:** Blockchain, Mobile Development  
 
+---
+
 ![alt text](image.png)
 
 ---
@@ -28,20 +30,3 @@ I work with a wide range of technologies and tools:
 - 🌍 Easy to update and extend  
 
 ---
-
-## 🚀 Getting Started
-
-Clone the repo and run it locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/portfolio.git
-
-# Navigate to project folder
-cd portfolio
-
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
