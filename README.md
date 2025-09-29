@@ -12,8 +12,11 @@ I work with a wide range of technologies and tools:
 
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, Nuxt.js  
 - **Backend:** Node.js, Django, WordPress  
-- **Programming Languages:** C++, C#, Python  
+- **Database:**  Mongodb, MySQL, PostgreSQL, and Microsoft SQL Server
+- **Programming Languages:** C++, C#, Python, Javascript, Php, Java  
 - **Specializations:** Blockchain, Mobile Development  
+
+![alt text](image.png)
 
 ---
 
