@@ -1,4 +1,11 @@
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full-stack+developer;and+I'm+a+Blockchain+developer;Always+learning+new+things;Together,+we+can+shape+a+decentralized+future&center=true&width=500&height=60">
+</p>
+---
 <h3 align="left">Hello , sir.<br>With 10 years in development, I’ve learned that writing clean, maintainable code is more valuable than quick fixes or shortcuts. <br>I approach projects with a focus on long-term scalability, user experience, and collaboration across teams. <br>Technology evolves quickly, so I prioritize continuous learning and adaptability. <br>Ultimately, I see development not just as coding, but as solving real-world problems through thoughtful design and execution.</h3>
+
+
+----
 
 ###
 
@@ -6,9 +13,9 @@
 
 ###
 
-----
+---
 
-<h3 align="left">my main skills:</h3>
+<h3 align="left">**my main skills**:</h3>
 
 ###
 
@@ -19,21 +26,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bluesky/0285FF" height="40" alt="bluesky logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="chrome logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
@@ -63,13 +60,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="nuxtjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
@@ -91,11 +84,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="solidity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svg" height="40" alt="svg logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/v/5D87BF" height="40" alt="v logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo"  />
   <img width="12" />
@@ -138,8 +127,3 @@
 
 <p align="left"></p>
 
-###
-<a href="jaimstomas712@gmail.com">contact me</a>
-<h4 align="center">jaimstomas712@gmail.com</h4>
-
-###
