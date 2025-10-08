@@ -6,6 +6,8 @@
 
 ###
 
+----
+
 <h3 align="left">my main skills:</h3>
 
 ###
@@ -137,7 +139,7 @@
 <p align="left"></p>
 
 ###
-
+<a href="jaimstomas712@gmail.com">contact me</a>
 <h4 align="center">jaimstomas712@gmail.com</h4>
 
 ###
