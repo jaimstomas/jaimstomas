@@ -8,13 +8,14 @@
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jaimstomas/assets/blob/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/jaimstomas/assets/blob/main/github-contribution-grid-snake-light.svg" />
-    <img alt="github-snake" src="https://github.com/jaimstomas/assets/blob/main/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaimstomas/assets/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaimstomas/assets/main/github-contribution-grid-snake-light.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jaimstomas/assets/main/github-contribution-grid-snake.svg" />
   </picture>
-</div>
+</p>
+
 
 ---
 
