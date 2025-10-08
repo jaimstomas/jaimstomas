@@ -1,21 +1,14 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Full-stack+developer;and+I'm+a+Blockchain+developer;Always+learning+new+things;Together,+we+can+shape+a+decentralized+future&center=true&width=500&height=60">
 </p>
----
-<h3 align="left">Hello , sir.<br>With 10 years in development, I’ve learned that writing clean, maintainable code is more valuable than quick fixes or shortcuts. <br>I approach projects with a focus on long-term scalability, user experience, and collaboration across teams. <br>Technology evolves quickly, so I prioritize continuous learning and adaptability. <br>Ultimately, I see development not just as coding, but as solving real-world problems through thoughtful design and execution.</h3>
-
 
 ----
 
-###
-
-<img src="https://raw.githubusercontent.com/jaimstomas/jaimstomas/output/snake.svg" alt="Snake animation" />
-
-###
+<h3 align="left">Hello , sir.<br>With 10 years in development, I’ve learned that writing clean, maintainable code is more valuable than quick fixes or shortcuts. <br>I approach projects with a focus on long-term scalability, user experience, and collaboration across teams. <br>Technology evolves quickly, so I prioritize continuous learning and adaptability. <br>Ultimately, I see development not just as coding, but as solving real-world problems through thoughtful design and execution.</h3>
 
 ---
 
-<h3 align="left">**my main skills**:</h3>
+<h2 align="left">My main skills:</h2>
 
 ###
 
@@ -124,13 +117,3 @@
 </div>
 
 
-<p align="left"></p>
-
-<<<<<<< HEAD
-=======
-###
-<div display="flex">
-<h4>my emaail address</h4>
-<h4 align="center">jaimstomas712@gmail.com</h4>
-</div>
->>>>>>> 20c3757a30a4ac9ac6fe20ae0a89988540cede0f
