@@ -8,6 +8,10 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/jaimstomas/jaimstomas/output/snake.svg" alt="Snake animation" />
+
+---
+
 <h2 align="left">My main skills</h2>
 
 ###
