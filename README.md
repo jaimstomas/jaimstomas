@@ -4,17 +4,8 @@
 
 ----
 
-<h3 align="left">Hello , sir.<br><br>With 10 years in development, I’ve learned that writing clean, maintainable code is more valuable than quick fixes or shortcuts. <br>I approach projects with a focus on long-term scalability, user experience, and collaboration across teams. <br>Technology evolves quickly, so I prioritize continuous learning and adaptability. <br>Ultimately, I see development not just as coding, but as solving real-world problems through thoughtful design and execution.</h3>
+<h3 align="left">Hello, sir.<br><br>With 10 years in development, I’ve learned that writing clean, maintainable code is more valuable than quick fixes or shortcuts. <br>I approach projects with a focus on long-term scalability, user experience, and collaboration across teams. <br>Technology evolves quickly, so I prioritize continuous learning and adaptability. <br>Ultimately, I see development not just as coding, but as solving real-world problems through thoughtful design and execution.</h3>
 
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaimstomas/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaimstomas/github-contribution-grid-snake-light.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jaimstomas/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 
 ---
