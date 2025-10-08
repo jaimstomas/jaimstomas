@@ -134,13 +134,11 @@
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
 </div>
 
-###
 
 <p align="left"></p>
 
 ###
-<div>
+<div display="flex">
 <h4>my emaail address</h4>
 <h4 align="center">jaimstomas712@gmail.com</h4>
 </div>
-###
