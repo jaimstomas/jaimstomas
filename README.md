@@ -139,7 +139,8 @@
 <p align="left"></p>
 
 ###
-<a href="jaimstomas712@gmail.com">contact me</a>
+<div>
+<h4>my emaail address</h4>
 <h4 align="center">jaimstomas712@gmail.com</h4>
-
+</div>
 ###
