@@ -8,7 +8,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/jaimstomas/jaimstomas/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jaimstomas/jaimstomas/snake.svg" alt="Snake animation" />
 
 ---
 
