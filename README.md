@@ -6,7 +6,10 @@
 
 <h3 align="left">Hello, sir.<br><br>With 10 years in development, I’ve learned that writing clean, maintainable code is more valuable than quick fixes or shortcuts. <br>I approach projects with a focus on long-term scalability, user experience, and collaboration across teams. <br>Technology evolves quickly, so I prioritize continuous learning and adaptability. <br>Ultimately, I see development not just as coding, but as solving real-world problems through thoughtful design and execution.</h3>
 
+---
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
